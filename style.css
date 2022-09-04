@@ -1,0 +1,27 @@
+h1 {
+    font-size: 45px;
+    text-align: center;
+    color: orange;
+}
+
+img {
+    height: auto;
+    width: 100vw;
+}
+
+img.recipes {
+    height: 250px;
+    width: auto;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+p {
+    font-size: 15px;
+}
+
+.list {
+    font-size: 15px;
+}
